@@ -1,3 +1,5 @@
+*Discografia Lana Del Rey - Imersão Dev com Alura e google gemini*
+
 O que é esse projeto?
 
 Um site simples e elegante para os fãs da Lana Del Rey explorarem sua discografia! ✨
@@ -35,4 +37,4 @@ Agradeço à Lana Del Rey por sua música incrível e a todos que contribuíram 
 
 Let's get lost together!
 
-#LanaDelRey #Discografia #JavaScript #HTML #CSS
+#LanaDelRey #Discografia #JavaScript #HTML #CSS #Alura #googlegemini
